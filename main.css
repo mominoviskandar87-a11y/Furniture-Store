@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+.container {
+     width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 25px;
+    padding-left: 25px;
+    max-width: 1000px;
+}
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;    
+    padding-top: 24px;
+    padding-bottom: 24px;
+    margin-bottom: 20px;
+}
+.bosh {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.rasmmm{
+    color: red;
+    background-color: #282525;
+}
+.boshi {
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 100%;
+    color: rgb(14, 177, 14);
+
+}
+.links {
+     display: flex;
+    align-items: center;
+    gap: 40px;
+}
+.link {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 100%;
+    color: #282525;
+}
+.sectionn {
+    display: flex;
+    justify-content: space-between;
+    gap: 45px;
+    
+}
+.model1 {
+    max-width: 450px;
+}
+.h11 {
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 100%;
+    color: rgba(97, 97, 247, 0.849);
+    margin-bottom: 20px;
+}
+.h22 {
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 100%;
+    color: rgba(255, 166, 0, 0.808);
+    margin-bottom: 30px;
+
+}
+.pp {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 100%;
+    color: #282525;
+    margin-bottom: 45px;
+
+}
+.btn {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.bitn {
+    padding: 11px;
+    border-radius: 50%;
+    color: white;
+    background-color: white;
+}
+.model2 {
+}
+.rasm {
+    width: 500px;
+    height: 300px;
+    margin-bottom: 45px;
+}
+.buttonnn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 45px;
+}
+.btn1{
+    padding: 7px 15px;
+    border-radius: 10px;
+    color: blueviolet;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+
+.mainn {
+    background-color: ;
+
+}
+.sec1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 99px;
+    margin-top: 35px;
+}
+.h33 {
+}
+.rasm1 {
+}
